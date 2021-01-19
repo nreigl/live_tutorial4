@@ -2,5 +2,5 @@
 
 Beverages I like:
 
-- Wine
+- Beer
 - Water
